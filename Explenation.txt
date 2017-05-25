@@ -1,0 +1,10 @@
+Hi,
+
+Task1
+For task1 I have tried for long time to complete this without Jquery but i could not.
+I included jquery and it has worked.
+
+Task2
+I have not finished task 2.
+Normaly I would use priority queue basing on time attribute so task close to each other would be next to one another.
+Too few time
